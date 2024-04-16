@@ -1,4 +1,16 @@
+# sites I don't like
+*://www.kocpc.com.tw/*
+*://today.line.me/*
+
+# trash sites
 *://www.akwarelami.pl/*
 *://gabrielagebertova.cz/*
 *://kwaterykielce.pl/*
 *://sweetandstubborn.pl/*
+*://kwateryhel.pl/*
+
+# PTTish
+title/.*MeowPtt*/
+
+# Tiktok
+*://*.tiktok.com/discover/*
