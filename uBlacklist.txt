@@ -1,5 +1,4 @@
 # sites I don't like
-*://www.kocpc.com.tw/*
 *://today.line.me/*
 
 # trash sites
